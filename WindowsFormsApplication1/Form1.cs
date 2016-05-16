@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using ParseLib;
 
 namespace WindowsFormsApplication1
 {
@@ -14,6 +15,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
+            Class1.Generate();
         }
     }
 }

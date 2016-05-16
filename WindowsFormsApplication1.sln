@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{CC1106E2-5680-4C26-B417-92B783CB91CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseLib", "ParseLib\ParseLib.csproj", "{020D9AF1-ED0C-4CD3-BFA2-4D49E2826904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC1106E2-5680-4C26-B417-92B783CB91CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1106E2-5680-4C26-B417-92B783CB91CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1106E2-5680-4C26-B417-92B783CB91CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020D9AF1-ED0C-4CD3-BFA2-4D49E2826904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020D9AF1-ED0C-4CD3-BFA2-4D49E2826904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020D9AF1-ED0C-4CD3-BFA2-4D49E2826904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020D9AF1-ED0C-4CD3-BFA2-4D49E2826904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
